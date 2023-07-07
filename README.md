@@ -6,9 +6,9 @@ A game list about your own created character can talk.
 - [Dragon Age Inquisition](https://store.steampowered.com/app/1222690)
 - [Fallout 4](https://store.steampowered.com/app/377160)
 - [Generation Zero](https://store.steampowered.com/app/704270)
-- [Mass Effect](#)
-- [Mass Effect 2]()
-- [Mass Effect 3]()
+- [Mass Effect]
+- [Mass Effect 2](#)
+- [Mass Effect 3](#)
 - [Saints Row: The Third](https://store.steampowered.com/app/55230)
 - [Saints Row IV](https://store.steampowered.com/app/206420)
 - [State of Decay](https://store.steampowered.com/app/329430)

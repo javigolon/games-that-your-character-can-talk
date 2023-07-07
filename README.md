@@ -1,5 +1,5 @@
 # Games that your character can talk
-A game list about your own created character can talk.
+A list of games that your own character can talk.
 
 ## Games (A-Z)
 - [Cyberpunk 2077](https://store.steampowered.com/app/1091500)

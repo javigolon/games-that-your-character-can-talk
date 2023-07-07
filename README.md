@@ -1,10 +1,6 @@
 # Games that your character can talk
 A game list about your own created character can talk.
 
-I like games that let me create my own character.
-I even like more when my own character can talk.
-So I created this list.
-
 ## Games (A-Z)
 - [Cyberpunk 2077](https://store.steampowered.com/app/1091500)
 - [Dragon Age Inquisition](https://store.steampowered.com/app/1222690)

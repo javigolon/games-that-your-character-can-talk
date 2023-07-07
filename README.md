@@ -6,6 +6,7 @@ A list of games that your own character can talk.
 - [Dragon Age Inquisition](https://store.steampowered.com/app/1222690)
 - [Fallout 4](https://store.steampowered.com/app/377160)
 - [Generation Zero](https://store.steampowered.com/app/704270)
+- [Hogwarts Legacy](https://store.steampowered.com/app/990080)
 - Mass Effect
 - Mass Effect 2
 - Mass Effect 3

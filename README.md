@@ -10,6 +10,7 @@ A list of games that your own character can talk.
 - Mass Effect
 - Mass Effect 2
 - Mass Effect 3
+- Saints Row (2022)
 - [Saints Row: The Third](https://store.steampowered.com/app/55230)
 - [Saints Row IV](https://store.steampowered.com/app/206420)
 - [State of Decay](https://store.steampowered.com/app/329430)

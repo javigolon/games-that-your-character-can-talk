@@ -16,4 +16,5 @@ A list of games that your own character can talk.
 - [State of Decay](https://store.steampowered.com/app/329430)
 - [State of Decay 2](https://store.steampowered.com/app/495420)
 - [Sunset Overdrive](https://store.steampowered.com/app/847370)
+- [Remnant II](https://store.steampowered.com/app/1282100)
 - [Watch Dogs: Legion](https://store.steampowered.com/app/2239550)
